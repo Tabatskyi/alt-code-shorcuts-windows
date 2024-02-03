@@ -1,1 +1,1 @@
-# alt-code-shorcuts-windows
+# Alt-Shortcuts for Unicode Symbols on Windowspy
